@@ -6670,7 +6670,7 @@ __metadata:
     next-page-transitions: 1.0.0-beta.2
     nodemon: 2.0.7
     nprogress: 0.2.0
-    prettier: 2.3.0
+    prettier: 2.3.2
     pretty-quick: 3.1.0
     react: 17.0.2
     react-dom: 17.0.2
@@ -7556,12 +7556,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.3.0":
-  version: 2.3.0
-  resolution: "prettier@npm:2.3.0"
+"prettier@npm:2.3.2":
+  version: 2.3.2
+  resolution: "prettier@npm:2.3.2"
   bin:
     prettier: bin-prettier.js
-  checksum: e8851a45f60f2994775f96e07964646c299b8a8f9c64da4fbd8efafc20db3458bdcedac79aed34e1d5477540b3aa04f6499adc4979cb7937f8ebd058a767d8ff
+  checksum: 17ce5784ac67621c292df58e2da60b2ee150c2d6aebea22a6ad9e52fcd6a5e66c349d0a8436ea3bd8ff9d778920a5f68000d7625b74f43558718a49755aa5259
   languageName: node
   linkType: hard
 
